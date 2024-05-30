@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/back2" />
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="100dp"
+        android:paddingTop="40dp"
+        android:paddingRight="90dp"
+
+        android:src="@drawable/vitlogo" />
+
+<!--    <Button-->
+<!--        android:id="@+id/btn"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_alignParentBottom="true"-->
+<!--        android:layout_centerInParent="true"-->
+<!--        android:text="start"-->
+<!--        android:textAllCaps="true"-->
+<!--        android:textSize="20dp"-->
+<!--        android:textStyle="bold" />-->
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="92dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="46dp"
+        android:layout_marginTop="52dp"
+        android:layout_marginEnd="37dp"
+        android:layout_marginBottom="459dp"
+        android:gravity="center"
+        android:inputType="textMultiLine"
+        android:text="Welcome to world of VIT clubs"
+        android:textColor="#64DF69"
+        android:textSize="34sp" />
+
+    <!--    <TextView-->
+<!--        android:id="@+id/textView"-->
+<!--        android:layout_alignParentStart="true"-->
+<!--        android:layout_alignParentTop="true"-->
+<!--        android:layout_alignParentEnd="true"-->
+<!--        android:layout_alignParentBottom="true"-->
+<!--        android:layout_marginStart="73dp"-->
+<!--        android:layout_marginTop="106dp"-->
+<!--        android:layout_marginEnd="54dp"-->
+<!--        android:layout_marginBottom="481dp"-->
+<!--        android:gravity="center"-->
+<!--        android:text="Welcome to world of VIT clubs"-->
+<!--        android:textColor="#64DF69"-->
+<!--        android:textSize="34sp"-->
+<!--        android:visibility="visible" />-->
+
+
+
+
+    <!--    <TextView -->
+    <!--        android:id="@+id/editTextTextPersonName"-->
+
+    <!--        android:layout_width="292dp"-->
+    <!--        android:layout_height="147dp"-->
+    <!--        android:layout_alignParentStart="true"-->
+    <!--        android:layout_alignParentLeft="false"-->
+    <!--        android:layout_alignParentTop="true"-->
+    <!--        android:layout_alignParentEnd="true"-->
+    <!--        android:layout_alignParentBottom="true"-->
+    <!--        android:layout_marginStart="70dp"-->
+    <!--        android:layout_marginTop="63dp"-->
+
+    <!--        android:layout_marginEnd="49dp"-->
+    <!--        android:layout_marginBottom="522dp"-->
+    <!--        android:ems="10"-->
+    <!--        android:gravity="center"-->
+    <!--        android:inputType="textMultiLine"-->
+    <!--        android:lines="2"-->
+    <!--        android:selectAllOnFocus="false"-->
+    <!--        android:text="welcome to world of vit clubs"-->
+    <!--        android:textColor="#64DF69"-->
+    <!--        android:textSize="34sp" />-->
+
+</RelativeLayout>

@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VITclubs</string>
+
+    <string name="club_name">GedIT</string>
+
+    <string name="nclub_name">Vaatchal</string>
+
+    <string-array name="technical_clubs_array">
+
+        <item>"GedIT"</item>
+        <item>"chesa"</item>
+        <item>"ISA"</item>
+        <item>"Team Griffin"</item>
+        <item>"Endurance Racing "</item>
+        <item>"Trident Labs"</item>
+        <item>"Veloce Racing"</item>
+        <item>"Computer society Of India"</item>
+        <item>"Developer Student Club"</item>
+        <item>"IEEE"</item>
+        <item>"Technocrats"</item>
+        <item>"The Robotics Forum"</item>
+
+
+    </string-array>
+
+    <string-array name="technical_clubs_description">
+        <item>"Description : \n\n GedIT, a club organised by the IT and MCA students that mainly focuses on training and developing the coding skills of the fellow members who have joined the club for learning various upcoming technologies in the realm of Coding and Design.
+            \nActivities : \n \n Be it mobile applications, desktop programs or web development we have following 5 streams to offer:
+\n 1. C and C++
+ 2. Core Java
+ 3. Python
+ 4. Android Programming
+ 5. Machine Learning"</item>
+        <item>"Description : \n\n• Our aim is to make students competent to face the real world by our various activities.
+\n• To work together as a team for the betterment of our department.
+\n• To make people aware that no World exists without the insights of chemicals.
+\n• So gear up guys! If you're fascinated by various unexplored Chemical phenomena and want to dig deep, Team CHESA 2020-21 is all set to reel off the amazing world of Chemicals for ya'all.
+            \nActivities : \n\n1]Workshops       \n2]Virtual Lab Sessions \n3]Guest Lectures    \n4]Alumni Panels \n5]Industrial Visits"</item>
+        <item>" Description : \n\n•International Society of Vishwakarma institute of Student Section.
+\n• ISA VIT Club's motive is to create ecosystem for FY and SY students to make Market Addressable projects during their engineering with technical discussions, guidance and mentoring.
+\n• Also there are opportunities for you to work on LIVE PROJECTS with great INDUSTRIALISTS.
+\n• Opportunity to publish your work in newsletters which are circulated among industry professionals.
+         \nDOMAINS :\n \n 1) Publicity and Outreach     \n 2)Database \n 3)PR and branding         \n 4)Webmasters \n 5) Content             \n 6)Multimedia \n 7) Operations       \n 8) Sponsorship and Finance"</item>
+        <item>" Description : \n\n • Griffin' is an association of aviation enthusiasts, aspiring pilots and RC modellers.
+            \n• The club designs, manufactures and tests 'fixed-wing' Unmanned Aerial Vehicles (UAVs).
+            \n• Team Griffin participates in national and inter-college aeromodelling com petitions and workshops, primarily focusing on SAE INDIA Southern section event (Aero-Design Challenge) along with Boeing aeromodeling competition held at various IITs across the country.
+            \n DOMAINS: \n\n1]Designing   \n 2] Modelling \n 3]Avionics     \n 4]Manufacturing \n 5] Flying Multimedia
+            \n OUR ACHIEVEMENTS :
+\nSAE ISS Aero Design Challenge-
+\n2020 - 2nd in Design Report
+\n2020 - 5th Overall
+\n2020 - 5th in Technical Presentation
+\n2019 - 1st in Design Report"</item>
+        <item>"Description : \n\n• Team Endurance Racing is the BAJA Team of Vishwakarma Institute of Technology, Pune.
+            \n• They design, fabricate and compete an All Terrain Vehicle at national level competition held at Pithampur, Indore by SAE INDIA.
+            \n• The objective of team is to build a robust and sophisticated vehicle with state of art manufacturing and to become the best BAJA Team in India.
+            \nDOMAINS : \n\n 1]Powertrain      \n 2] Rollcage \n 3] Steering          \n 4] Suspension \n 5]Brakes              \n 6] Data Acquisition \n 7]Multimedia"</item>
+        <item>"Description : \n\n•	Trident Labs is a legacy in itself.
+\n•	Trident Labs is a student run club, where the student community comes together and works in research and development of autonomous technologies.
+\n•	Students organise different workshops and events that cover a spectrum of topics.
+\n•	Trident Labs is a team of unconventional minds having a structured system like the corporate sector and a dynamic system like a startup.
+            \nDOMAINS : \n\n 1]Multimedia and design \n 2]Sponsorship \n 3]Content   \n 4]Marketing and branding \n 5]Event execution      \n 6]Website Development"</item>
+        <item>"Description : \n \n• Veloce Racing is the Formula Student Team of Vishwakarma Institute of Technology, Pune.
+            \n• They try design, manufacture and race a Formula style car at national level events held at student level by SAE and other organizations.
+            \n• This project not only involves engineering design and manufacturing but also project management, financial distribution, team functioning and marketing; all managed by students.
+        \nDOMAINS :\n\n 1] Engine          \n 2]Suspensions \n 3] Steering       \n 4]breaks \n 5] electronics   \n 6]CAE
+            \nAchievements :
+\n•VELOCE 1.0 (2011) : Secured Overall 9th Rank.
+\n•VELOCE 1.0 (2012) : Secured Overall 7th Rank in BUDDHA INTERNATIONALS.
+\n•VELOCE 4.0 (2015) : 1ST Rank in Acceleration Test
+\n•2nd Rank in Skid Pad Test 2nd Rank Marketing Presentation Cash price of 70,000. Ranked overall 5th
+\nTotal 3 National Awards:
+\n•1st Rank in Acceleration Test
+\n•2nd Rank in Skid Pad Test
+\n•2nd Rank Marketing Presentation
+\nTotal Cash Prize of 70,000.
+\nOverall 5th Rank at National Level
+
+FORMULA STUDENT INDIA 2016:Best Performance of Team"</item>
+        <item>"Description : \n\n • Computer Society of India, VIT Pune is a legacy in itself.
+\n• Computer Society of India (CSI) Student Branch is one of the premier organizations working under the banner of VIT Pune to drive students' attention towards a career in the field of Computer Science.
+\n• It is the community of IT geeks with the vision to share ideas on technology and advancement of theory to inspire and integrate students
+            \nDOMAINS :\n\n 1) Content and Curation \n 2) Marketing and Outreach \n 3) Multimedia and Design  \n 4) Corporate relation \n 5) Operations and Management"</item>
+        <item>"Description : \n\n• At the Developer Students' Community, we are strongly determined to redefine the vision of this 21st century by manifesting technology to students.
+\n• Aimed specifically for university students to help them build their Mobile, Web, Cloud and Machine Learning skills.
+\n• DSC provides an interactive space for students to brainstorm new ideas and collaborate to create beautiful solutions
+            \nDOMAINS: \n\n 1]Management \n 2]App development(Android ,flutter) \n 3]Multimedia \n 4]Web development \n 5]Content writer"</item>
+        <item>"Description : \n\n• IEEE Student Branch VIT Pune encourages and hosts a number of educational, social and professional activities throughout the year.
+            \n• With a global aim of “Advancing technology for humanity”, the student branch contributes its share by conducting various skill enhancement workshops and inviting influential people from the industry into college to give guest lectures.
+            \nDOMAINS : \n\n 1]Web development         \n 2]AI/ML  \n 3] App development       \n 4]Blockchain \n 5]Competitive programming."</item>
+        <item>"Description : \n\n• Technocrats is a legacy in itself.
+\n• A technical club where they conduct workshops as well as work on side projects within app, game, web and graphics domains.
+            \nDOMAINS :\n\n 1]Game Design \n 2] App development \n 3]Web development \n 4]Graphic design \n 5]Marketing and outreach \n 6] Content"</item>
+        <item>"Description : \n\n • The Robotics Forum is a group of highly dedicated individuals, right from First Year to Final Year Undergraduates, to Professors and HODs, working passionately in the field of robotics to take the college to new heights in this field.
+            \n• The forum focuses on promoting interdependence between various do mains.
+            \n• It also focuses on the principle of 'development through knowledge transfer', within the club as well as the college.
+            \n• The club strongly believes in its motto "Learning through Doing".
+            \nDOMAINS : \n\n 1] Mechanical       \n 2]Electronics \n 3]Programming     \n 4]Administration"</item>
+
+
+    </string-array>
+
+
+    <string-array name="nontechnical_clubs_array">
+
+
+        <item>"Viculp"</item>
+        <item>"Aaroh"</item>
+        <item>"Mirage"</item>
+        <item>"V-Click"</item>
+        <item>"pd club"</item>
+        <item>"Abhivriddhi"</item>
+        <item>"Vishwaconclave"</item>
+        <item>"VIT Pune MUN"</item>
+        <item>"Yuj"</item>
+        <item>"Antariksh"</item>
+        <item>"Ekasutram"</item>
+        <item>"TEDX"</item>
+        <item>"QSOC"</item>
+        <item>"EPEC"</item>
+        <item>"VEH"</item>
+        <item>"DIVA"</item>
+        <item>"SWD(VIT socials)"</item>
+
+
+    </string-array>
+
+    <string-array name="nontechnical_clubs_description">
+
+
+        <item>"Description : \n\n•Theatre is VICULP's expertise! The club brings to you, Art, Craft and Acting endeavours together and gives your talents a chance to tell one really well written story and create a beautiful production of it.
+\n•A huge proportion of this goes into brainstorming new and audience-engaging events to narrate the story.
+\n•Collectively all the club members strive to tell the most genuine versions of their stories! As once said:
+                     "All the men and women merely players. They have their exits and their entrances""</item>
+        <item>"Description : \n\n•Aaroh is Vit's one and only music club which purely dedicated to music.
+ \n•Anyone who loves music can be part of it and discusss his/her taste of music with others on the community platform.
+\n•Aaroh also has its organizing comittee which has several sections which conducts several events and social media campaigns
+\nORAGANIZING COMITTEE : \n
+1.	social media and content
+2.	event management
+3.	graphic designing
+4.	audio video editors"</item>
+        <item>"Description : \n\n•Mirage Campus Film Society is a legacy in itself.
+\n•Mirage Campus Film Society is envisioned to form a community of Film Enthusiasts within college where students can discuss and share their opinions freely and bond with other people on their shared love of cinema.
+\n•We try to achieve this by conducting regular screenings of good movies of various languages and genres and conducting an open forum after the screening where students can freely express their opinions about the movie and even discuss it among themselves, just like a community."</item>
+        <item>"Description : \n\n•The main objective of our V-click club is to click the photographs of each event which is arranged in the college.
+\n•We try to click the best photographs of every event and then, we will send those pics to respective event heads. So that, they can upload those photographs on their website.
+\n•We also arrange some workshops and photowalks for the students who want to learn more concepts about photography, photo editing, video editing,etc."</item>
+        <item>"Description : \n\n•Personality Development Club visions to develop Character, Competence and Culture in the lives of students and help them live a meaningful life.
+\n•The club helps students to deal sensitivity and self-awareness in thought, words and action and save themselves from self-destructing habits and addiction that harm body and mind.
+            \nOBJECTIVES :\n
+1.Creating a class of people of high character and competence
+2.Using talents for propagating love for all, based
+3.Training students in right values, etiquette, behavior and practices."</item>
+        <item>"Descriotion : \n\n•Abhivriddhi aims to promote and support student development by providing high-quality educational training programs.
+\n•Our goal is to help students identify and develop their academic and career interests, along with their short and long-term goals through counselling and to enhance individual learning and development.
+            \nDOMAINS:\n\n1] Creatives     \n2]Management \n3]Affairs"</item>
+        <item>"•VC is amongst India’s first truly multidisciplinary student-centric conferences organized by the students of VIT.
+\n•Germinating from an idea to facilitate meaningful conversations between students and luminaries.
+\n•VishwaConclave successfully hosted its flagship event on an online platform under the theme, "Accelerating the Paradigm Shift." with a total footfall of over 250 attendees.
+\n•The event comprised Padma-Awardees, Indian Diplomats, High ranked Defense Personnel, and present MD of a Multinational Company.
+
+DOMAINS :
+\n1]Defence  \n2] Bureaucracy  \n3] Sports  \n4] Entertainment \n5]Entrepreneurship."</item>
+        <item>"Description : \n\n•MUNS are more than just mock conferences; they give you a voice, a skill and a platform to display it all.
+\n•VIT Pune MUN'19 is a clarion call for change; make sure you hear it.
+\n•Discuss. Deliberate. Participate.
+
+COMITTEES :\n
+1. United Nations Security Council (Double Delegation)
+2. United Nations Human Rights Council
+3. All India Political Parties Meet
+4. Special Political and Decolonization Committee
+6. General Assembly: Emergency Special Session
+7. Organization for Security and Cooperation in Europe"</item>
+        <item>"Description : \n\n•Yuj Club is a legacy in itself. Yuj is the official Yoga club of VIT Pune. We initiate to unite people and help them unite their body and mind.
+\n•The word 'Yoga' is derived from the Sanskrit root 'Yuj', meaning 'to unite'.
+\n•Yuj initiates to unite people and to help them unite with their body and mind. The club was founded in the peak period of corona rise.
+\n•It aimed to detoxify the body and soul for their well being. As the founders were pre-determined for making yoga as a daily routine.
+\n•It aimed to create awareness about yoga and enjoy it by being the Yuj members at VIT. "</item>
+        <item>"Description : \n\nAntariksh Club is a legacy in itself.
+\n•Antariksh is the astronomy club of Vishwakarma Institutes. The club was established back in 2009.
+\n•The main objective of the club is to train the enthusiasts in field of astronomy and astrophysics and also to spread awareness among people about astronomy.
+\n•The Club also focuses on how engineering can be used in astronomy by conducting various technical workshops."</item>
+        <item>"Description : \n\n•Ekasutram Club is a legacy in itself. Mathematics club of VIT Pune.
+\n•A club intended at inculcating the mathematical interest in engineering students and to help realize the importance of mathematics through various media - fun, games, events, activities, workshops.
+\n•It deals with the application of mathematics in daily life and in complex situations.
+\n•Our focus is to inculcate the mathematical approach to face problems so that it'll be very efficient and will lead to more accurate results."</item>
+        <item>"Description : \n\n•Launched in 2015, TEDxVITPune is a collaboration between VIT’s students and the large Pune community to bring technology, entertainment and design.
+\n•Our events feature interdisciplinary presenters, expressing their thoughts, experiences, projects and visions to promote the ideals of TED.
+\n•Our goal is to promote growth, cross over set boundaries and bring all the innovative minds together.
+\nSpecialties :\n
+\n1]Innovation  \n2] Social Entrepreneurship  \n3]Sports  \n4]Technology  \n5]MusicHealth \n6]Science \n7]Lifestyle \n8]Entertainment \n9] Design \n10]Governance"</item>
+        <item>"Description : \n\n•QSoc Club is a legacy in itself. Founded in 2018 by a group of enthusiastic students.
+\n•The Quizzing Society aims to inspire and encourage people who have a flair for quizzing.
+\n•This club intends to inculcate a passion for quizzing, gaining knowledge and sharing it among a broad spectrum of people ranging from college students to corporates spread across the nation."</item>
+        <item>"Description : \n\n•Here at EPEC (Event Planning and Execution Committee), we work around the clock to ensure that every event we conduct has been executed to utmost perfection.
+\n•Right from massive inter-college events like Mélange to a seemingly simple Republic Day Celebration, we take it upon ourselves to ensure seamless execution of each and every event.
+\n•We leave no stone unturned in preparation and we intend to deliver the most enjoyable and memorable experiences for everyone.
+\n•EPEC – Event Planning and Execution Committee is the team behind the successful execution of any event in the college. It is where Ideas are born, worked up and executed!
+\nDOMAINS :\n\n1]Finance  \n2]Function execution  \n3]Head PR and Branding  \n4]Student activities  \n5]Aesthetics \n6]Broadcasting  \n7]Clubs  \n8]Content and Curation  \n9]Cultural \n10]Database \n11]Extra-curricular \n12]First year  \n13]Light and sound  \n14]Magazine \n15]Multimedia \n16]PDC  \n17]Photography \n18]Publicity and outreach  \n19]Refreshment \n20]Resource  \n21]Social media \n22]Sponsorship \n23]Sports  "</item>
+        <item>"Description : \n•Here at VEH, we believe Art can be universally described as a form of expression that can be delivered via the acts of writing articles and poetry, creating videos, capturing photos, digitally drawn graphic designs, and handmade paintings.
+\n•We combine all forms of art and have members from each of the domains, who express themselves freely.
+\n•This way, we follow this unique idea of having all art forms under one umbrella.
+            \nSpecialties : \n\n1]Art \n2]Photography \n3]Aesthetics    \n4]Poems \n5]stories           \n6]articles \n7]essay   \n8]graphics \n9]video editing \n10]graphic designing \n11]videography \n12]video editing"</item>
+        <item>"Description :\n•The word "Women Empowerment" defined as a multidimensional social process that helps women in gaining control over their own lives.
+\n•We Diva club Vit Pune keep faith in, empowerment is not giving women power,they already have plenty of power.
+\n•We define empowerment as letting this power out..!! Each and every team member is working hard to present Diva club digitally in a remarkable way.
+\n•We are a team not because we work together, we are a team because we respect, trust and support each other..!!
+\n•We are ready to break the stereotypes."</item>
+        <item>"Description : \n\n•We at the Social Welfare and Development Committee, readily work with a motto to empower society and transform lives to bring out the positive changes in the society.
+\n•We aim to be a helping hand towards everyone in society by organizing various events and activities throughout the year.
+\n•We are always ready to do someone a good turn to be good for society with no expectations in return.
+           \nDOMAINS :\n\n1]Multimedia and Design Co-ordinators
+2]Venue and Resources Co-ordinators
+3]Photography Co-ordinators"</item>
+
+
+    </string-array>
+</resources>
